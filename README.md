@@ -2,7 +2,7 @@
 
 App Description
 
-This is for codepath class  IOS Development  prework requirment 
+This app takes the information from the user such as first name, last name, and school name and other information such as the number of pets and the year in which the user is in and displays all of this information in a alert greating with some extra text 
 
 
 App Walk-though
